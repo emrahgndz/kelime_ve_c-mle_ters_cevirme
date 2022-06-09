@@ -1,0 +1,1 @@
+# kelime_ve_c-mle_ters_cevirme
